@@ -1,0 +1,26 @@
+ cd "<file name>"
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/Phanindra-15/How-to-commit.git
+
+git push -u origin main
+
+
+ To push some other specific files into our exidtng file then follow the above condition
+
+git status
+
+git add .
+ 
+git commit -m "first commit"
+
+git push -u origin main
+
+ 
